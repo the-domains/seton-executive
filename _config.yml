@@ -1,0 +1,14 @@
+layout_spectrum: 0.9396824422292411
+typography_spectrum: 0.6344594180118293
+color:
+  brandStrength: 0.30530712218023837
+  lightness: 0.6948147916700691
+  saturation: 0.48953872453421354
+  rhythmicContrast: 0.46160888602025807
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Seton Executive
